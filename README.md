@@ -1,19 +1,19 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Oldagram (Instagram Clone)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A responsive, single-page photo feed layout built using semantic HTML and modern CSS. This project was completed as a solo challenge within the Scrimba Frontend Developer Career Path to demonstrate mastery of CSS Flexbox and layout precision.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🛠 Technical Implementation
+Semantic HTML5: Used meaningful markup (<article>, <header>, <main>) to ensure accessibility and structure.
+CSS Flexbox: Heavily utilized for aligning profile information, navigation icons, and the interaction bar.
+Mobile-First Workflow: Designed for mobile screens first, ensuring the feed stays centered and legible on wider viewports.
+UI Polish:
+Applied hover effects to icons using opacity transitions.
+Integrated Google Fonts for branding consistency.
+Maintained aspect ratios for images across various screen sizes.
+📁 File Structure
+index.html - Semantic structure of the feed.
+index.css - Custom styling and layout logic.
+/images - Local assets (avatars and posts).
+🚀 Deployment
+This project is continuously deployed via Netlify. Any changes pushed to the main branch are automatically updated on the live site.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
