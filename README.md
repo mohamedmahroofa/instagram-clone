@@ -1,6 +1,6 @@
 # Oldagram
 
-**Live Link:** [Visit here](https://taupe-toffee-9e426d.netlify.app)
+**Live Link:** [Netlify - Instagram Clone](https://taupe-toffee-9e426d.netlify.app)
 
 ## Project Overview
 This is a solo project from the Scrimba Frontend Career Path. The goal was to take a Figma design and build a responsive mobile-first photo feed using only HTML and CSS.
